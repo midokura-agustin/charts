@@ -37,7 +37,7 @@ spec:
             - --selector
             - release={{ $release.Name }},app={{ template "cassandra.name" $ }}
             - --container
-            - { $release.Name }}-cassandra
+            - {{ $release.Name }}-cassandra
             - --keyspace
             - {{ $schedule.keyspace }}
             - --dst
