@@ -3,11 +3,11 @@ entries:
   cassandra:
   - apiVersion: v1
     appVersion: 3.11.6
-    created: "2020-04-08T17:06:28.329669346+02:00"
+    created: "2020-04-09T12:44:35.388321079+02:00"
     description: Apache Cassandra is a free and open-source distributed database management
       system designed to handle large amounts of data across many commodity servers,
       providing high availability with no single point of failure.
-    digest: f6a9a0dcd28725d7ce1448cc7ef8766871ad3f804f371b32de2e8df14a814048
+    digest: b46eb63445b4063a50839685b8059ed5744d0a81e816d6f1b92824078ae00b55
     home: http://cassandra.apache.org
     icon: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Cassandra_logo.svg/330px-Cassandra_logo.svg.png
     keywords:
@@ -21,6 +21,6 @@ entries:
       name: maorfr
     name: cassandra
     urls:
-    - https://raw.githubusercontent.com/midokura-agustin/charts/master/incubator/cassandra-0.15.0.tgz
-    version: 0.15.0
-generated: "2020-04-08T17:06:28.32820241+02:00"
+    - https://raw.githubusercontent.com/midokura-agustin/charts/master/incubator/cassandra-0.15.1.tgz
+    version: 0.15.1
+generated: "2020-04-09T12:44:35.386977807+02:00"
